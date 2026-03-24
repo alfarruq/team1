@@ -2,7 +2,7 @@
 import './style.css'
 import img from '../../assets/odcha.png'
 
-function SectionOne() { 
+function SectionOne() { Azizxoja-a
     return (
         <>
             <div className='section-one'>
