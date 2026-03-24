@@ -5,7 +5,7 @@ import './style.css'
 function SectionOne() {
     return (
         <>
-            <h3>SectionOne</h3>
+          
         </>
     );
 }
